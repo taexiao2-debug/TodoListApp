@@ -1,0 +1,14 @@
+C:\Users\anjal\Downloads\C#\TodoListApp\TodoListApp\bin\Debug\net10.0\TodoListApp.exe
+C:\Users\anjal\Downloads\C#\TodoListApp\TodoListApp\bin\Debug\net10.0\TodoListApp.deps.json
+C:\Users\anjal\Downloads\C#\TodoListApp\TodoListApp\bin\Debug\net10.0\TodoListApp.runtimeconfig.json
+C:\Users\anjal\Downloads\C#\TodoListApp\TodoListApp\bin\Debug\net10.0\TodoListApp.dll
+C:\Users\anjal\Downloads\C#\TodoListApp\TodoListApp\bin\Debug\net10.0\TodoListApp.pdb
+C:\Users\anjal\Downloads\C#\TodoListApp\TodoListApp\obj\Debug\net10.0\TodoListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjal\Downloads\C#\TodoListApp\TodoListApp\obj\Debug\net10.0\TodoListApp.AssemblyInfoInputs.cache
+C:\Users\anjal\Downloads\C#\TodoListApp\TodoListApp\obj\Debug\net10.0\TodoListApp.AssemblyInfo.cs
+C:\Users\anjal\Downloads\C#\TodoListApp\TodoListApp\obj\Debug\net10.0\TodoListApp.csproj.CoreCompileInputs.cache
+C:\Users\anjal\Downloads\C#\TodoListApp\TodoListApp\obj\Debug\net10.0\TodoListApp.dll
+C:\Users\anjal\Downloads\C#\TodoListApp\TodoListApp\obj\Debug\net10.0\refint\TodoListApp.dll
+C:\Users\anjal\Downloads\C#\TodoListApp\TodoListApp\obj\Debug\net10.0\TodoListApp.pdb
+C:\Users\anjal\Downloads\C#\TodoListApp\TodoListApp\obj\Debug\net10.0\TodoListApp.genruntimeconfig.cache
+C:\Users\anjal\Downloads\C#\TodoListApp\TodoListApp\obj\Debug\net10.0\ref\TodoListApp.dll
